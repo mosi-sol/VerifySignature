@@ -48,5 +48,8 @@ API_URL = "https://eth-goerli.g.alchemy.com/v2/your_key"
 PRIVATE_KEY = "0x00...00"
 ```
 
+run node:
+`node myIndex.js`
+
 ---
 enjoy it!
