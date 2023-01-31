@@ -49,7 +49,7 @@ PRIVATE_KEY = "0x00...00"
 ```
 
 run node:
-`node myIndex.js`
+`node index.js`
 
 ---
 enjoy it!
