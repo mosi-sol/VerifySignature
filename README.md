@@ -1,9 +1,8 @@
 # Verify Signature
 sign by wallet, verify by smart contract. using web3js lib.
 
-- Web3js - [Project web page](https://mosi-sol.github.io/VerifySignature/) 
-- Web3js - [source](https://github.com/mosi-sol/VerifySignature/blob/main/index.html) 
-- Ethersjs - [source](https://github.com/mosi-sol/VerifySignature/blob/main/index-ethersjs.html) 
+- Web3js - [source](https://github.com/mosi-sol/VerifySignature/blob/main/index.html) | [Live](https://mosi-sol.github.io/VerifySignature/) 
+- Ethersjs - [source](https://github.com/mosi-sol/VerifySignature/blob/main/index-ethersjs.html) | [Live](https://mosi-sol.github.io/VerifySignature/index-ethersjs.html) 
 
 ---
 
